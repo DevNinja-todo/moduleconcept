@@ -1,0 +1,3 @@
+variable "Jay-nsg" {
+  
+}
