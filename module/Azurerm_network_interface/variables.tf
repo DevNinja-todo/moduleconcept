@@ -1,1 +1,0 @@
-variable "Jay-project-Repo-nic" {}
