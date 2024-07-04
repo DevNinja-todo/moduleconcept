@@ -1,5 +1,6 @@
 rgs = {
   rg-devopsinsiders = {
+    rg_name = "mytodo-rg"
     location = "West Europe"
   }
 }
